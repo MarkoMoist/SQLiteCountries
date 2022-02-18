@@ -1,0 +1,5 @@
+C:\Users\marko\source\repos\SQLiteCountries\SQLiteCountries\obj\Debug\net5.0\SQLiteCountries.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\SQLiteCountries\SQLiteCountries\obj\Debug\net5.0\SQLiteCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\SQLiteCountries\SQLiteCountries\obj\Debug\net5.0\SQLiteCountries.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\SQLiteCountries\SQLiteCountries\obj\Debug\net5.0\SQLiteCountries.AssemblyInfo.cs
+C:\Users\marko\source\repos\SQLiteCountries\SQLiteCountries\obj\Debug\net5.0\SQLiteCountries.csproj.CoreCompileInputs.cache

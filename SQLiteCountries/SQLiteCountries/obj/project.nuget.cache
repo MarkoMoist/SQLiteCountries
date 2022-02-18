@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MqMjfxAKSdrI5ehK/IVnAHHOuMio66kM+rz1Vspo5xzFFxw42L8xh06ahxrw6yxSwWG8MW8qZpSPW4c2Mq08HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marko\\source\\repos\\SQLiteCountries\\SQLiteCountries\\SQLiteCountries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marko\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
